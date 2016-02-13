@@ -1,0 +1,9 @@
+body{
+  position: absolute;
+  top: calc(50% - 75px);
+  left: calc(43% - 50px);
+  height: 150px;
+  width: 350px;
+  padding: 10px;
+  z-index: 2;
+}
